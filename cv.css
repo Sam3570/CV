@@ -321,3 +321,17 @@ height: 100%;
     }
     
     }
+
+
+ .button-download{
+
+        display: flex;
+        justify-content: end;
+    }
+
+    .button-download a{
+
+        color: #003147;
+         
+
+    }
